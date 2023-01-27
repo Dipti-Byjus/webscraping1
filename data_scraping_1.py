@@ -1,13 +1,6 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 16 17:02:40 2020
 
-@author: Vishal
-"""
 
 from bs4 import BeautifulSoup as bs
-import requests
-import pandas as pd
 
 
 bright_stars_url = 'https://en.wikipedia.org/wiki/List_of_brightest_stars_and_other_record_stars'
